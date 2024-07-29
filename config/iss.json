@@ -1,0 +1,4 @@
+{
+  "NEXT_PUBLIC_APP_ENV": "iss",
+  "NEXT_PUBLIC_API_BASE_URL": "https://pokeapi.co/api/v2/"
+}
