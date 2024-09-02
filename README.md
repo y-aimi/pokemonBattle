@@ -1,5 +1,8 @@
 # アプリ説明
 ## 概要
+ポケモンといっしょに漢字でGO!  
+https://pokemon-battle-iota.vercel.app/  
+
 Next.jsのApp Routerを使用したSSG✖️CSRのSPAで、
 漢字でGO!とポケモンを掛け合わせたアプリです。  
 出題される漢字の読みをひらがなで答えてクリアしてください。  
